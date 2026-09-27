@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "written": "2026-09-27T18:41:08.197Z",
+  "scope": "project",
+  "items": [
+    {
+      "kind": "mcp",
+      "host": "claude-code",
+      "name": "filesystem",
+      "canonicalName": "npm:@modelcontextprotocol/server-filesystem",
+      "version": "2026.7.4",
+      "recordSha256": "009f993f860ff7af65ddeb77132a5a9672c3b72f7b77808195da6b7f410609c5"
+    }
+  ],
+  "files": [
+    {
+      "path": ".mcp.json",
+      "kind": "Claude Code MCP servers, project",
+      "sha256": "38709376d220374bd1a723435931874a0eab1b9b175ac1e5363dc2a8f0041fa4"
+    },
+    {
+      "path": "CLAUDE.md",
+      "kind": "Claude Code CLAUDE.md, project",
+      "sha256": "97e9f98f6f4383441a05ab4ee914965dcaa4e79dec565f7a31b212b6530cc531"
+    }
+  ]
+}

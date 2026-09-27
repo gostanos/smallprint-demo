@@ -1,0 +1,8 @@
+name: Small Print check
+on: [push, pull_request]
+jobs:
+  small-print:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gostanos/smallprint-action@v1.6
