@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "written": "2026-09-27T18:41:08.197Z",
+  "written": "2026-10-05T05:16:35.714Z",
   "scope": "project",
   "items": [
     {
@@ -23,5 +23,25 @@
       "kind": "Claude Code CLAUDE.md, project",
       "sha256": "97e9f98f6f4383441a05ab4ee914965dcaa4e79dec565f7a31b212b6530cc531"
     }
+  ],
+  "covers": [
+    "Claude Code MCP servers, home",
+    "Claude Code MCP servers, project",
+    "Claude Desktop MCP servers, home",
+    "Cline MCP servers, home",
+    "Codex config.toml, home",
+    "Codex config.toml, project",
+    "Cursor MCP servers, home",
+    "Cursor MCP servers, project",
+    "Gemini MCP servers, home",
+    "Gemini MCP servers, project",
+    "Roo MCP servers, home",
+    "Roo MCP servers, project",
+    "VS Code MCP servers, home",
+    "VS Code MCP servers, project",
+    "Windsurf MCP servers, home",
+    "Windsurf MCP servers, project",
+    "Zed MCP servers, home",
+    "Zed MCP servers, project"
   ]
 }

@@ -9,14 +9,14 @@ The main branch passes. The open pull request moves the filesystem server to 202
 To do the same in your repository, from the directory that holds your agents' configuration:
 
 ```bash
-npx smallprint@0.1.5 lock --project
+npx smallprint@0.1.8 lock --project
 git add smallprint.lock
 ```
 
 Then add this step to a workflow:
 
 ```yaml
-- uses: gostanos/smallprint-action@v1.6
+- uses: gostanos/smallprint-action@v1.10
 ```
 
 The check reads the repository's configuration and instruction files, compares them with the lock, and sends nothing anywhere. When a change is yours, run `lock --project` again and commit the lock.
